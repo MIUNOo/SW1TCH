@@ -7,10 +7,12 @@
 			"files": [
 				"G:/UnrealProjects/SW1TCH/SW1TCH/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset",
 				"G:/UnrealProjects/SW1TCH/SW1TCH/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"G:/UnrealProjects/SW1TCH/SW1TCH/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
 				"G:/UnrealProjects/SW1TCH/SW1TCH/Content/FirstPerson/Blueprints/WBP_HUD.uasset",
 				"G:/UnrealProjects/SW1TCH/SW1TCH/Content/FirstPerson/Blueprints/BP_HUD.uasset",
-				"G:/UnrealProjects/SW1TCH/SW1TCH/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+				"G:/UnrealProjects/SW1TCH/SW1TCH/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"G:/UnrealProjects/SW1TCH/SW1TCH/Content/FirstPerson/BPI_InteractionInterface.uasset",
+				"G:/UnrealProjects/SW1TCH/SW1TCH/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/96/LVUHGTK20XPUOGSMTMUMYV.uasset",
+				"G:/UnrealProjects/SW1TCH/SW1TCH/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
 			]
 		}
 	]
